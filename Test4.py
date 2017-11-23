@@ -71,4 +71,4 @@ def process(infile):
 
 
 if __name__ == "__main__":
-    process("C:/Users/polyv-1107/Desktop/wuyifang.jpg")
+    process("C:/Users/polyv-1107/Desktop/psb.jpg")
